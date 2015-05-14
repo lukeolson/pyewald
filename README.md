@@ -8,4 +8,13 @@ to check.
 
 # Installation
 
+```
+python setup.py install
+```
+
 # Testing
+
+```
+import pyewald
+pyewald.test()
+```
